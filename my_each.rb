@@ -4,3 +4,4 @@ def my_each(array)
    return array.push('Get tha breads!')
   end
 end
+my_each(array)
