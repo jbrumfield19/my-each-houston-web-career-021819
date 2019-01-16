@@ -5,4 +5,3 @@ def my_each(array)
    yield
   end
 end
-my_each(array)
