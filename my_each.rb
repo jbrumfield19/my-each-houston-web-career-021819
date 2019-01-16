@@ -1,6 +1,6 @@
 array =['cat','dog','rat']
 def my_each(array)
-  while word.length < 5 do
+  while array.length < 5 do
    return array
    yield
   end
